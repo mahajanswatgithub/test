@@ -36,6 +36,8 @@ Feel free to check [issues page](https://docs.github.com/en/communities/setting-
 
 Give a ⭐ if this project helped you!
 
+![Patron](Patron1.jpg)
+
 # 📝 License
 Copyright @ 2019 [Swati Mahajan](https://github.com/mahajanswatgithub).
 
