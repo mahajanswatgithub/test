@@ -20,7 +20,9 @@ npm run start
 
 # Run tests
 
->npm run [test](https://github.com/mahajanswatgithub/test.git)
+```bash
+npm run test
+```
 
 # Author
 **👤 Swati Mahajan**
